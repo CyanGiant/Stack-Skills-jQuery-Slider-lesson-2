@@ -6,8 +6,8 @@
 body{
   font-family: 'Arial', sans-serif;
   font-size: 14px;
-  color:#fff;
-  background: #333;
+  color:#ac9694;
+  background: #261e1e;
   line-height: 1.6em;
 }
 
@@ -19,6 +19,7 @@ a{
 h1{
   text-align: center;
   margin-bottom: 20px;
+  margin-top: 1px;
 }
 
 #container{
@@ -49,6 +50,7 @@ h1{
   position: absolute;
   bottom: 0;
   left: 0;
+  right:0;
   padding: 20px;
   background: #7f7f7f;
   background: rgba(0,0,0,0.5);
